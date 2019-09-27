@@ -1,2 +1,2 @@
 # ProgrammingParadigms
-Programming paradigm notes
+Programming paradigm notes see [here](https://sulzmann.github.io/ProgrammingParadigms/)
