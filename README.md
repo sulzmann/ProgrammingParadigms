@@ -1,0 +1,2 @@
+# ProgrammingParadigms
+Programming paradigm notes
